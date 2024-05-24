@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821792422527",
+    "project_id": "currencyconverter-d5634",
+    "storage_bucket": "currencyconverter-d5634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821792422527:android:1e7b164d7acd32ab5d5d4a",
+        "android_client_info": {
+          "package_name": "com.example.currencyexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiBdG5atQN0CIEem5Pljy5tIeWYF5-fv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
